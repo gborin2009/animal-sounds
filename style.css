@@ -1,0 +1,15 @@
+.copy_right_footer{
+    bottom:0;
+    position: fixed;
+    width: 100%;
+    background-color: aquamarine;
+    text-align:center;
+    font-weight: bolder;
+    font-size: larger;
+    color:royalblue;
+}
+body{
+   background-color: skyblue;
+   font-family: 'The Nautigal', cursive;
+   font-size: 40px;
+}
